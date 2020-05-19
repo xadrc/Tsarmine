@@ -16,7 +16,8 @@ Experimenting with a new accelerometer-based motion tracking system to monitor A
 * Installation of 30 measuring devices and a transmitter-receiver on a high-mountain glacier • Mining and cleansing of the data received from the accelerometers
 * Designing algorithms to reconstruct missing data and replace outliers
 * Designing algorithms for automatic movements detections and quantifications
-* Building machine-learning models to apprehend natural causes of the glacier’s surface destabilizations • Visual representations and interpretations of the models and forecasts
+* Building machine-learning models to apprehend natural causes of the glacier’s surface destabilizations 
+* Visual representations and interpretations of the models and forecasts
 * Writing scientific documentation of the outcomes
 
 ### DATA
