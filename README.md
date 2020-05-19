@@ -29,6 +29,7 @@ Experimenting with a new accelerometer-based motion tracking system to monitor A
 
 - Read full report [__here__](http://bit.ly/2uZT5Aj)
 
-----
+-----
+
 
 ###### 2017
