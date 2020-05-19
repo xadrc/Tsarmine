@@ -1,0 +1,12 @@
+xts
+zoo
+stinepack
+caTools
+quantmod
+stats
+plotrix
+raster
+GISTools
+fields
+ggplot2
+Hmisc
