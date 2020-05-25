@@ -9,11 +9,12 @@ Experimenting with a new accelerometer-based motion tracking system to monitor A
 ### AIMS
 
 * Observe, quantify and model surface movements and destabilizations of alpine permafrost in order to better apprehend their causes and predict catastrophic events
-* Test and validate an innovative measuring system utilizing a network oft hree-axis accelerometers dispatched on the surface of alpine permafrost features in order to continuously monitor their movements
+* Test and validate an innovative measuring system utilizing a network of three-axis accelerometers dispatched on the surface of alpine permafrost features in order to continuously monitor their movements
 
 ### ACHIEVEMENTS
 
-* Installation of 30 measuring devices and a transmitter-receiver on a high-mountain glacier • Mining and cleansing of the data received from the accelerometers
+* Installation of 30 measuring devices and a transmitter-receiver on a high-mountain glacier
+* Mining and cleansing of the data received from the accelerometers
 * Designing algorithms to reconstruct missing data and replace outliers
 * Designing algorithms for automatic movements detections and quantifications
 * Building machine-learning models to apprehend natural causes of the glacier’s surface destabilizations 
